@@ -5,4 +5,4 @@ Modo de uso:
 1_Compilar la clase SelectionLab del paquete org.geotools.tutorial.style
 2_se abrira un selector de archivo. Seleccionar el archivo "ne_50m_admin_0_sovereignty.shp"
 3_Se abrira una ventana con el mapa contenido. Dar click en el boton "select" y luego en el mapa.
-4_Para verificar si las coordenadas donde dimos click debemos ubicar en la ruta q proporcionamos antes y abrir el archivo "direcciones.txt"
+4_Para verificar si las coordenadas donde dimos click debemos ubicar en la ruta q proporcionamos antes y abrir el archivo "direcciones.txt".
