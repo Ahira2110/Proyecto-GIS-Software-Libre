@@ -1,0 +1,3 @@
+1;Tierra del fuego;-68.06519842160057;-53.96813560778095;K:\Imagenes\a-stormy-paradise-1-1563744.jpg;hace frio poco sol
+2;2;-70.85673664580455;-51.056346506226674;K:\Imagenes\cemetary-1387449.jpg;otra ubicacion mucho sol
+1;3;-62.65751697893495;-33.36547039501883;K:\Imagenes\swiss-mountains-1362975.jpg;calor
